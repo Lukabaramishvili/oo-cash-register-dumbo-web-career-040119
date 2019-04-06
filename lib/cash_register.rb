@@ -34,4 +34,8 @@ class CashRegister
     # binding.pry
   end 
   
+  def void_last_trasaction
+    
+  end
+  
 end 
