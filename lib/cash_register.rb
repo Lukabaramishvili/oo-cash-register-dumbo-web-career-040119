@@ -30,7 +30,7 @@ class CashRegister
   end 
   
   def items 
-    @items << items
+    @items 
     # binding.pry
   end 
   
